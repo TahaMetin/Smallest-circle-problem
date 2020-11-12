@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605017096 source:d:\taha\bil muh\2. sýnýf\prolab\lab1\prolab1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
