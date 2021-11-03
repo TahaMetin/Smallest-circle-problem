@@ -5,3 +5,10 @@ Eğri için Beizer Curve kullanılmıştır. Proje c dilinde yazılmış ve grap
 
 Program for finding smallest enclosing circle for n point and draw bezier curve. Project writed with c language and visualized with graphics.h .
 
+### Input
+<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/input.png"/>
+
+
+### Outputs
+<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output1"/>
+<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output2"/>
