@@ -10,5 +10,5 @@ Program for finding smallest enclosing circle for n point and draw bezier curve.
 
 
 ### Outputs
-<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output1"/>
-<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output2"/>
+<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output1.png"/>
+<img src="https://github.com/TahaMetin/Smallest-circle-problem/blob/main/output2.png"/>
